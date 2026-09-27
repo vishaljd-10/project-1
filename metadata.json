@@ -1,0 +1,7 @@
+{
+  "name": "Navratri Ahmedabad - Garba, Dineout & Live Passes",
+  "description": "The ultimate Ahmedabad Navratri mobile companion: find nearby Garba venues with live crowd tracking, reserve late-night dining tables, book digital QR passes, AI festive studio & assistant, real-time navigation, and offline safety vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
